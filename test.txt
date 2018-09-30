@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git has a mutable index called stage.
 44444444444444444444
+5555555555555555
